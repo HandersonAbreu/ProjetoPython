@@ -2,14 +2,26 @@
 
 ## Participantes
 
-Lucas Campos Silva R.A: 3020103477
+Cleber José Lacerda dos Santos
+R.A.: 3020110612
+cleberjds27@gmail.com
 
-Cleber José Lacerda dos Santos R.A: 3020110612
+Everton Luis de Oliveira Penha
+R.A.: 3020109891
+evertonn.luis@uni9.edu.br
 
-Handerson Clemente de Abreu R.A: 3020106969
+Lucas Campos Silva
+R.A.: 3020103477
+lucascampossilva15@uni9.edu.br
 
-Otávio Lima dos Santos R.A: 3020107397
+Lucas Dias dos Santos
+R.A.: 3020102319
+lucas_dias_santos@uni9.edu.br
 
-Everton Luis de Oliveira Penha R.A: 3020109891
+Handerson Clemente de Abreu
+R.A.: 3020106969
+handerson.abreu@uni9.edu.br
 
-Lucas Dias dos Santos   R.A: 3020102319
+Otávio Lima dos Santos 
+R.A.: 3020107397
+otaviootata@hotmail.com
